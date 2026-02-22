@@ -39,6 +39,9 @@ The aforementioned Non-Commercial (NC) and ShareAlike (SA) restrictions do not a
 * **[SHIM YOUNG DAE]** @youngdaeshim - Project Sponsor
 * **[Hanam Youth Center]** @hanam0924 - Associated Organization
 
+* **Last Updated:** 2026-02-23  
+**Current License:** CC BY-NC-SA 4.0 (Applied since Feb 23, 2026)
+
 ## Credits & Acknowledgments
 
 - **Inspiration**: This project was inspired by the '[Security Keyboard](https://www.youtube.com/watch?v=C3MN4s82Zx8)' concept by [Geekble](https://geekble.com).
