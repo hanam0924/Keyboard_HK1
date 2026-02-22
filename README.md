@@ -28,12 +28,12 @@ Inspired by the YouTube channel 'Geekble', I developed a custom security keyboar
 ## License & Copyright
 
 **Copyright (c)** [2026] [LEE MYUNG GYUN]
-**3D Models & Software (Arduino Code):** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+**3D Models & Software (Arduino Code):** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Commercial use of this project is strictly prohibited under the CC BY-NC 4.0 license.
+Commercial use of this project is strictly prohibited under the CC BY-NC-SA 4.0 license. Furthermore, if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ### License Exceptions
-The aforementioned non-commercial restrictions do not apply to the original creator, the sponsor, and the associated organization. The following parties are granted explicit permission to use this project for commercial purposes:
+The aforementioned Non-Commercial (NC) and ShareAlike (SA) restrictions do not apply to the original creator, the sponsor, and the associated organization. The following parties are granted explicit permission to use, modify, and exercise full commercial rights over this project without the obligation to distribute derivative works under the same terms:
 
 * **[LEE MYUNG GYUN]** @aodrha03 - Original Creator & Lead Developer
 * **[SHIM YOUNG DAE]** @youngdaeshim - Project Sponsor
